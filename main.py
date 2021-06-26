@@ -1,8 +1,12 @@
 from simpleimage import SimpleImage
+# this function is used for Image Processing
 import seaborn as sns
 import matplotlib.pyplot as plt
+# the upper 2 library function can later be handy while making awesome graphs
 import csv 
+# imports csv if needed later
 import json
+# imports json if needed later
 
 
 def main():
